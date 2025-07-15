@@ -1,0 +1,11 @@
+# Progetto finale guidato
+
+Il progetto finale guidato consiste nello sviluppo di un'applicazione completa in Pascal, che permetta di mettere in pratica tutte le competenze acquisite durante il corso di programmazione. Questo tipo di progetto è fondamentale per testare le abilità degli studenti e per valutare la loro capacità di applicare i concetti teorici in un contesto pratico.
+
+Durante lo svolgimento del progetto, gli studenti avranno l'opportunità di lavorare su un problema concreto, definire i requisiti dell'applicazione, progettare la struttura del programma, implementare il codice, testare e debuggare l'applicazione. Inoltre, avranno la possibilità di confrontarsi con il docente e con i propri compagni di corso per ricevere feedback e suggerimenti utili per migliorare il proprio lavoro.
+
+L'obiettivo del progetto finale guidato è quello di fornire agli studenti un'esperienza pratica e stimolante, che consenta loro di consolidare le proprie competenze di programmazione e di acquisire nuove conoscenze. Inoltre, il progetto permette loro di mettere in evidenza le proprie capacità di problem solving e di lavoro di squadra, competenze fondamentali per affrontare con successo il mondo del lavoro.
+
+L'applicazione sviluppata durante il progetto finale guidato potrà essere di diversi tipi, a seconda delle esigenze e degli interessi degli studenti. Ad esempio, potrebbe trattarsi di un gestionale per una piccola impresa, di un gioco educativo per bambini, di un software per la gestione di un archivio di dati, o di qualsiasi altra soluzione che permetta di mettere in luce le capacità degli studenti.
+
+In conclusione, il progetto finale guidato rappresenta un'opportunità unica per gli studenti di mettere alla prova le proprie competenze di programmazione, di acquisire nuove conoscenze e di sviluppare le proprie capacità di problem solving e di lavoro di squadra. Si tratta di un momento fondamentale nel percorso di formazione degli studenti, che permette loro di dimostrare le proprie abilità e di prepararsi al meglio per affrontare le sfide del mondo del lavoro.
